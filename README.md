@@ -3,7 +3,7 @@ This repo provides python crawler to collect image and desciptions from websites
 
 | Content Category |  Technique  | Source Website | Code Link |
 |------------------|-------------|----------------|-----------|
-| Animals          | cloudscraper| https://animalia.bio | |
-| Food nutrition       | 新用户创建          | 🚧 开发中 |
-| Medicine   | 支持 CSV 和 Excel   | ❌ 未开始 |
-|    | 支持 CSV 和 Excel   | ❌ 未开始 |
+| Animals          | cloudscraper| https://animalia.bio    | [code](/main/animal-crawler)|
+| Food nutrition   | selenium    | https://nutridata.cn/database/list?id=2| [code](/main/nutrition-crawler)|
+| Medicine         | selenium    | https://baike.baidu.com | [code](/main/medicine-crawler)|
+| Artwork          | selenium    | https://baike.baidu.com | [code](/main/artwork-crawler)|
